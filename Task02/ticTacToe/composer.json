@@ -1,5 +1,5 @@
 {
-  "name": "OneRayMan/tic-tac-toe",
+  "name": "onerayman/tic-tac-toe",
   "type": "project",
   "authors": [
     {
@@ -17,7 +17,7 @@
   "autoload": {
     "files": [
       "src/Controller.php",
-      "src/View.php",
+      "src/View.php"
     ]
   }
 }
