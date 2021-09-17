@@ -46,3 +46,7 @@
 3. Выполнить команду `composer require onerayman/tic-tac-toe`;
 4. Перейти в каталог vendor/bin;
 5. Запустить файл tic-tac-toe.bat.
+
+## Ссылки
+
+Packagist: <https://packagist.org/packages/onerayman/tic-tac-toe>
