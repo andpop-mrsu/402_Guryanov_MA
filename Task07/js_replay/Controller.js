@@ -1,4 +1,4 @@
-import { list1 } from '../js_list/Model.js';
+import { list1 } from './Model.js';
 
 export var id;
 
