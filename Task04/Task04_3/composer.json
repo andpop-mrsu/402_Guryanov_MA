@@ -1,0 +1,22 @@
+{
+    "name": "rayoneman/task04_1",
+    "type": "project",
+    "description": "task04_3",
+    "authors": [
+      {
+          "name": "Guryanov MA",
+          "email": "max_g88@mail.ru"
+      }
+  ],
+      "require": {
+          "phpunit/phpunit": "^9.5"
+      },
+      "autoload": {
+          "psr-4": {
+              "App\\": "src/"
+          }
+      },
+      "bin": [
+          "bin/run-test"
+      ]
+  }
